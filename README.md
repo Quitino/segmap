@@ -1,5 +1,8 @@
 ## *SegMap* 
 
+
+[泡泡推荐词](https://mp.weixin.qq.com/s?__biz=MzI5MTM1MTQwMw==&mid=2247504847&idx=1&sn=7eb808714395f4b6371a3f72c4a67b9d&chksm=ec136dcbdb64e4dd86a1211de56f293300575ef6c733efbf5ef147044defc43db2076bddc390&mpshare=1&scene=1&srcid=0814g75HKeLY3KodnF8L5Iqk&sharer_sharetime=1565763258768&sharer_shareid=662e33bcf39b24da66575a9f1c3f9ab8&pass_ticket=F%2FDcQUFoziFQRIZO5nFqbGSWQROwfTXyyFj%2B3FTug77yGQBpxqgMTzUTPyXdfXYW#rd)
+
 SegMap is a map representation based on 3D segments allowing for robot localization, environment reconstruction, and semantics extraction. The SegMap code is open-source (BSD License) and has been tested under Ubuntu 14.04, 16.04 and ROS Indigo, Kinetic. Please remember that this is on-going research code which is subject to changes in the future.
 
 ### Related Publications
